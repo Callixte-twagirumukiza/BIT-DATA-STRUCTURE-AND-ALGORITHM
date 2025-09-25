@@ -1,0 +1,55 @@
+Integers :
+1. Start
+2. Store exam marks in a list of integers
+3. Calculate total using sum()
+4. Calculate average by taking sum divide by the number of students
+5. Find maximum and minimum using max() and min()
+6. Print all results
+7. Stop
+
+Strings
+1. Algorithm: Analyze Integer Marks
+2.  Start
+3.  Store exam marks in a list of integers
+4.  Calculate total using sum()
+5.  Calculate average by dividing total by number of marks
+6.  Find minimum and maximum using min() and max()
+7.  Print all results
+8.  End
+BOOLEAN
+Algorithm
+1. Start
+2. Set a threshold value=70
+3. Compare average marks to threshold
+4. Use compound condition (average > threshold AND max > 80)
+5. If condition is True, print "Above Standard"
+6. Else, print "Below Standard"
+7. End
+
+LISTS :
+Algorithm: 
+1. Start
+2. Create a list of subject names
+3. Add a new subject using append()
+4. Check if a specific subject exists, then remove it
+5. Sort the list alphabetically
+6. Print the updated list
+7. End
+ARRAYS:
+Algorithm: Compare Array and List Sums
+1. Start
+2. Create a fixed-size array of numeric marks
+3. Compute sum of array using sum()
+4. Compute sum of first few items in list
+5. Compare both sums
+6. Print whether they match
+7. End
+Algorithm: Manage Student Records
+1. Start
+2. Create a list of dictionaries with 'id', 'name', and 'value'
+3. Update the 'value' of a specific student
+4. Remove a student based on name
+5. Loop through remaining records and print each
+6. Calculate total of all 'value' fields
+7. Print the total
+8. End
